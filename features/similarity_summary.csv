@@ -1,0 +1,6 @@
+﻿Metric,Value
+Total Headlines,10000.0
+Total Unique Words (Features),3000.0
+Average Distance (Top-1 Similar),2.417
+Threshold for 'Very Similar',2.0
+Total Pairwise Comparisons (Sample),124750.0

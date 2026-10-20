@@ -1,0 +1,5 @@
+# Large CSV datasets and generated features
+features/urdu_onehot_features.csv
+features/urdu_tfidf_full_10k_cleaned.csv
+features/bag_of_words_10k_features_corrected.csv
+urdu-news-dataset-1M.csv
